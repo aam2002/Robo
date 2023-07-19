@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aam2002/Robo.git/static/css/main.4de539c6.css",
+    "main.js": "/aam2002/Robo.git/static/js/main.b915c57e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/aam2002/Robo.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/aam2002/Robo.git/index.html",
+    "main.4de539c6.css.map": "/aam2002/Robo.git/static/css/main.4de539c6.css.map",
+    "main.b915c57e.js.map": "/aam2002/Robo.git/static/js/main.b915c57e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/aam2002/Robo.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de539c6.css",
+    "static/js/main.b915c57e.js"
+  ]
+}
